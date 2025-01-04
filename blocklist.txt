@@ -3,8 +3,10 @@
 0.0.0.0 v.tiktok.net
 0.0.0.0 tiktokvideo.com
 0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn-eu.com
 0.0.0.0 sf-static.tiktokcdn.com
 0.0.0.0 tiktokv.com
+0.0.0.0 tiktokv.eu
 0.0.0.0 v.tiktok.com
 0.0.0.0 musica.ly
 0.0.0.0 muscdn.com
